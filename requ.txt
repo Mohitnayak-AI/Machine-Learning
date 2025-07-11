@@ -7,3 +7,5 @@ scikit-learn
 xgboost
 scipy
 imbalanced-learn
+plotly
+nbformat>=4.2.0
