@@ -1,0 +1,14 @@
+[
+    {
+        "category": "Electronics",
+        "sales": 42000
+    },
+    {
+        "category": "Apparel",
+        "sales": 4400
+    },
+    {
+        "category": "Home Appliances",
+        "sales": 3750
+    }
+]
