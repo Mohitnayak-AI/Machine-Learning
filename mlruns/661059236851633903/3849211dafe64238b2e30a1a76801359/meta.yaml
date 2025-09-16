@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/661059236851633903/3849211dafe64238b2e30a1a76801359/artifacts
+end_time: 1757937728908
+entry_point_name: ''
+experiment_id: '661059236851633903'
+lifecycle_stage: active
+run_id: 3849211dafe64238b2e30a1a76801359
+run_name: able-bat-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757937727358
+status: 3
+tags: []
+user_id: mohitrajnayak

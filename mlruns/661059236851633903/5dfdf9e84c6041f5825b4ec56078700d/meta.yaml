@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/661059236851633903/5dfdf9e84c6041f5825b4ec56078700d/artifacts
+end_time: 1757938347669
+entry_point_name: ''
+experiment_id: '661059236851633903'
+lifecycle_stage: active
+run_id: 5dfdf9e84c6041f5825b4ec56078700d
+run_name: unruly-colt-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757938346625
+status: 4
+tags: []
+user_id: mohitrajnayak
